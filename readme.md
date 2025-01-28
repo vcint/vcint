@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/vsafe10" target="blank"><img src="https://img.shields.io/twitter/follow/vsafe10?logo=twitter&style=for-the-badge" alt="vsafe10" /></a> </p>
 
-- 🔭 I’m currently working on [Myhealth Application](https://github.com/vcint/MyHealth)
+- 🔭 I’m currently working on [HealthSaathi Application](https://github.com/vcint/MyHealth)
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👯 I’m looking to collaborate on [Myhealth Application](https://github.com/vcint/MyHealth)
+- 👯 I’m looking to collaborate on [HealthSaathi Application](https://github.com/vcint/MyHealth)
 
-- 🤝 I’m looking for help with [Myhealth Application](https://github.com/vcint/MyHealth)
+- 🤝 I’m looking for help with [HealthSaathi Application](https://github.com/vcint/MyHealth)
 
 - 👨‍💻 All of my projects are available at [vcint.netlify.app](vcint.netlify.app)
 
