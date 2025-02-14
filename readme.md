@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vsafe10" target="blank"><img src="https://img.shields.io/twitter/follow/vsafe10?logo=twitter&style=for-the-badge" alt="vsafe10" /></a> </p>
 
-- 🔭 I’m currently working on [HealthSaathi Application](https://github.com/vcint/MyHealth)
+- 🔭 I’m currently working on [Ai Trip Planing Application](https://github.com/vcint/tripai)
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
