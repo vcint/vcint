@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ai Trip Planing Application](https://github.com/vcint/tripai)
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - 👯 I’m looking to collaborate on [HealthSaathi Application](https://github.com/vcint/MyHealth)
 
