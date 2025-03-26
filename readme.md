@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Azure Cloud**
 
-- 👯 I’m looking to collaborate on [HealthSaathi Application](https://github.com/vcint/MyHealth)
+- 👯 I’m looking to collaborate on [TripAi](https://github.com/vcint/triai)
 
-- 🤝 I’m looking for help with [HealthSaathi Application](https://github.com/vcint/MyHealth)
+- 🤝 I’m looking for help with [TripAi](https://github.com/vcint/triai)
 
 - 👨‍💻 All of my projects are available at [vcint.netlify.app](vcint.netlify.app)
 
